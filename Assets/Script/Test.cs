@@ -4,13 +4,17 @@ using UnityEngine;
 
 public class Test : MonoBehaviour
 {
-    // Start is called before the first frame update
+    /// <summary>
+    /// 開始
+    /// </summary>
     void Start()
     {
         Debug.Log("Start");
     }
 
-    // Update is called once per frame
+    /// <summary>
+    /// 更新
+    /// </summary>
     void Update()
     {
         
