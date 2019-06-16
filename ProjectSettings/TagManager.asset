@@ -10,6 +10,11 @@ TagManager:
   - LargeStarTag
   - SmallCloudTag
   - LargeCloudTag
+  - Fire
+  - CarTag
+  - TrafficConeTag
+  - CoinTag
+  - GoalTag
   layers:
   - Default
   - TransparentFX
