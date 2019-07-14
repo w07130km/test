@@ -4,8 +4,17 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - DamageObject
-  - Cube2d
+  - LeftFripperTag
+  - RightFripperTag
+  - SmallStarTag
+  - LargeStarTag
+  - SmallCloudTag
+  - LargeCloudTag
+  - Fire
+  - CarTag
+  - TrafficConeTag
+  - CoinTag
+  - GoalTag
   layers:
   - Default
   - TransparentFX
@@ -15,8 +24,8 @@ TagManager:
   - UI
   - 
   - 
-  - Ground
-  - Player
+  - 
+  - 
   - 
   - 
   - 
@@ -42,13 +51,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Coin
-    uniqueID: 3534837493
-    locked: 0
-  - name: Block
-    uniqueID: 2494971979
-    locked: 0
-  - name: UI
-    uniqueID: 4086813705
     locked: 0
